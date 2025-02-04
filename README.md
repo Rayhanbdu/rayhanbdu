@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="top" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="800" height="600" alt="boy gif"  />
+ 
   <h2 style="font-size: medium;">Hi 👋! My name is Rayhanul Islam and I'm a B.Sc. student in Educational Technology, hailing from Bangladesh.</h2>
 </div>
 
@@ -33,6 +33,4 @@
   <a href="https://discordapp.com/users/1095757087155441664"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 </div>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
